@@ -75,17 +75,17 @@ The following results demonstrate the output of data processing and testing.
 ### 1. Team Appearance Counts
 This table shows the number of appearances for each NBA team based on the dataset.
 
-![Team Appearance Counts](./results/team_counts.png)
+<img width="170" alt="4b9c69bfa62c150164490e15face3b5" src="https://github.com/user-attachments/assets/ae51ae26-c9cf-4004-9025-12f73131b476">
 
 ### 2. Elo Probability Statistics
 This table presents the calculated mean, standard deviation, minimum, and maximum values for Elo probabilities in the dataset.
 
-![Elo Probability Statistics](./results/elo_prob_stats.png)
+<img width="649" alt="0d47b6dfdb71a7a07bcd606ac798c18" src="https://github.com/user-attachments/assets/7f398726-fc35-40b1-9a7d-aa94eae03b16">
 
 ### 3. Test Results
 This output verifies that all tests have passed successfully, confirming the correctness of Spark initiation, CSV reading, team appearance counting, and Elo probability statistics calculation.
 
-![Test Results](./results/test_results.png)
+<img width="672" alt="a004a46d8ea751f34162ece707118a9" src="https://github.com/user-attachments/assets/ccd52749-7fd8-49ca-a0c9-f78aab2ba44a">
 
 ## How It Works
 
