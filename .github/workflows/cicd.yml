@@ -33,6 +33,3 @@ jobs:
 
       - name: Run tests
         run: make test
-
-      - name: Make Deploy
-        run: make deploy
